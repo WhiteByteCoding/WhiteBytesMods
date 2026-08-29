@@ -1,2 +1,2 @@
-# WhiteByte-s-Mods
+# WhiteByte's Mods
 minecraft and other game mods ngl
