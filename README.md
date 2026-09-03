@@ -20,7 +20,6 @@ You don’t need a readme, you need MODS!
 ## Supported game versions and mod loaders
 
 - Minecraft: 1.20.1, soon 26.3, (forge)
-- Terraria: august 2026 tmodloader
 - other games soon
 
 ## Getting started — install a released mod
