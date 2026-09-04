@@ -32,4 +32,4 @@ This repository includes the MIT License
 
 Maintainer: [WhiteByte](https://github.com/WhiteByteCoding)
 
-##### Tell me what yall want next at [The Official Discord Server.](https://discord.gg/SxKj8wrNAV)
+Suggestions at [The Official Discord Server.](https://discord.gg/SxKj8wrNAV)
