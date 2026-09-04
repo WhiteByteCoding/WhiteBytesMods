@@ -25,11 +25,6 @@ You don’t need a readme, you need MODS!
 
 If a mod has additional runtime configuration, refer to its own readme.
 
-## Contributing
-
-Contributions are welcome.
-You can contribute to the repo by doing a pull request.
-
 ## License
 
 This repository includes the MIT License 
