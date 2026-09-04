@@ -11,12 +11,6 @@ WhiteBytesMods is a collection of mods and modding utilities for Minecraft and o
 This README is intentionally generic — 
 You don’t need a readme, you need MODS!
 
-
-## Highlights
-
-- Multiple game mods in one repo
-- Contributions Welcome
-
 ## Supported game versions and mod loaders
 
 - Minecraft: 1.20.1, soon 26.3, (forge)
@@ -34,7 +28,7 @@ If a mod has additional runtime configuration, refer to its own readme.
 ## Contributing
 
 Contributions are welcome.
-You can contribute to something jn the repo by doing a pull request.
+You can contribute to the repo by doing a pull request.
 
 ## License
 
