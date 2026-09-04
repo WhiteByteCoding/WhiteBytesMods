@@ -19,8 +19,8 @@ You don’t need a readme, you need MODS!
 ## Getting started — install a released mod
 
 1. Raw download the mod you want.
-2. Place the JAR into the `mods` folder of your CurseForge modpack.
-3. Ensure you have the correct game version installed that the mod requires you to have.
+2. Place the downloaded mod into the `mods` folder of your game, or the folder that you put mods into for the game your playing.
+3. Ensure you are on the correct game version installed that the mod requires you to have and/or the correct mod loader.
 4. Launch the game.
 
 If a mod has additional runtime configuration, refer to its own readme.
