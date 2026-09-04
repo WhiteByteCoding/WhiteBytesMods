@@ -30,6 +30,6 @@ If a mod has additional runtime configuration, refer to its own readme.
 This repository includes the MIT License 
 ## Contact
 
-Maintainer: [WhiteByte](https://github.com/WhiteByteCoding)
+Maintainer: [WhiteByte.](https://github.com/bytebyte55)
 
 Suggestions at [The Official Discord Server.](https://discord.gg/SxKj8wrNAV)
